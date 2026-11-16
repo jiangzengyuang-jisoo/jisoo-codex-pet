@@ -56,4 +56,4 @@ macOS / Linux: ~/.codex/pets/jisoo-blossom--jiangzengyuang-jisoo/
 
 ## 社区投稿
 
-本作品同时准备投稿至 [Awesome Codex Pet](https://github.com/legeling/awesome-codex-pet)。上游投稿目录只包含 `submission.json`、`pet.json` 和 `spritesheet.webp`；此仓库中的 README 与展示动画用于个人作品展示。
+本作品已向 [Awesome Codex Pet](https://github.com/legeling/awesome-codex-pet) 提交正式 [PR #380](https://github.com/legeling/awesome-codex-pet/pull/380)，等待社区审核。上游投稿目录只包含 `submission.json`、`pet.json` 和 `spritesheet.webp`；此仓库中的 README 与展示动画用于个人作品展示。
