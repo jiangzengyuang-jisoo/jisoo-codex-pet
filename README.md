@@ -46,14 +46,9 @@ macOS / Linux: ~/.codex/pets/jisoo-blossom--jiangzengyuang-jisoo/
 
 最终宠物资产由 **[jiangzengyuang-jisoo](https://github.com/jiangzengyuang-jisoo)** 策划与适配，使用 OpenAI Codex 内置图像生成功能独立生成、迭代编辑，再完成动画提取、统一缩放、透明边缘清理与图集拼接。
 
-用户提供的 JISOO《FLOWER》照片仅用于相貌、发型和服装参考，**没有随本仓库上传**。照片的摄影作者及公开原始链接未提供；本项目不将参考照片作者冒充为宠物作者，也不声称拥有参考照片或人物相关权利。spritesheet 并非对照片直接裁剪、描摹或清晰化得到。
 
-这是非官方同人创作，与 JISOO、BLACKPINK 或相关权利人没有官方关联或背书。
 
 ## 使用说明
 
 **仅限非商业使用，禁止商用。** 使用或再分发时须保留 `jiangzengyuang-jisoo` 的制作与适配署名及来源说明。该说明不授予参考照片、人物肖像、名称、商标或其他第三方权利。
 
-## 社区投稿
-
-本作品已向 [Awesome Codex Pet](https://github.com/legeling/awesome-codex-pet) 提交正式 [PR #380](https://github.com/legeling/awesome-codex-pet/pull/380)，等待社区审核。上游投稿目录只包含 `submission.json`、`pet.json` 和 `spritesheet.webp`；此仓库中的 README 与展示动画用于个人作品展示。
